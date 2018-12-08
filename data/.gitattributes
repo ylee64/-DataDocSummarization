@@ -1,0 +1,6 @@
+test_src.encode filter=lfs diff=lfs merge=lfs -text
+test_tgt.encode filter=lfs diff=lfs merge=lfs -text
+train_src.encode filter=lfs diff=lfs merge=lfs -text
+train_tgt.encode filter=lfs diff=lfs merge=lfs -text
+val_src.encode filter=lfs diff=lfs merge=lfs -text
+val_tgt.encode filter=lfs diff=lfs merge=lfs -text
