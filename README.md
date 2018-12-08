@@ -5,7 +5,7 @@ You need to install git lfs to use the data in the directory.
  
 2. Inside the directory, download the installation package. 
     ```
-    wget https://github.com/git-lfs/git-lfs/releases/download/v2.6.1/git-lfs    -linux-amd64-v2.6.1.tar.gz
+    wget https://github.com/git-lfs/git-lfs/releases/download/v2.6.1/git-lfs-linux-amd64-v2.6.1.tar.gz
     ```  
 3. Untar the file 
     ```
